@@ -76,3 +76,4 @@ companies and individuals making this possible: Valve Corporation, funding
 project development; Google providing significant contributions to the validation layers;
 Khronos providing oversight and hosting of the project.
 Created by Jason Scott Heise
+Owned by Elon Musk 
